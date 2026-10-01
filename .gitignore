@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build
+.next/
+out/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+.env*.local
+.env.local
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+finlytics.db
+
+# Uploads & Temp
+uploads/
+backend/uploads/
+.tempmediaStorage/
+
+# Flutter & Mobile artifacts
+finlytics_mobile/build/
+finlytics_mobile/.dart_tool/
+finlytics_mobile/.flutter-plugins
+finlytics_mobile/.flutter-plugins-dependencies
+finlytics_mobile/android/.gradle/
+finlytics_mobile/android/app/build/
+finlytics_mobile/ios/Pods/
+
+# OS & IDE files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

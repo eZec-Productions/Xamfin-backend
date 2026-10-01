@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 916 >>
+stream
+BT /F1 12 Tf 50 750 Td 16 TL
+(AMAZON WEB SERVICES - BILLING STATEMENT) Tj T*
+(INVOICE NUMBER: 994827104) Tj T*
+(ACCOUNT ID: 8847-1920-5847) Tj T*
+(CUSTOMER: Finlytics Technologies) Tj T*
+(BILLING PERIOD: August 1 - August 31, 2026) Tj T*
+(--------------------------------------------------------------------------------) Tj T*
+(SERVICE SUMMARY:) Tj T*
+(Amazon Elastic Compute Cloud \(EC2 GPU p4d.24xlarge\)             ,840.00) Tj T*
+(Amazon Relational Database Service \(PostgreSQL Multi-AZ\)           .00) Tj T*
+(Amazon Simple Storage Service \(S3 Glacier & Deep Archive\)          .00) Tj T*
+(Amazon CloudFront & Data Transfer Out                              .00) Tj T*
+(--------------------------------------------------------------------------------) Tj T*
+(TOTAL CHARGES \(USD\):                                            ,200.00) Tj T*
+(PAYMENT METHOD: Corporate Visa ending in 9104 \(PROCESSED\)) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1278
+%%EOF
